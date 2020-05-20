@@ -8,7 +8,7 @@
 <div align="center">
 简体中文
 &emsp;&emsp; | &emsp;&emsp;
-<a href="https://github.com/huihut/interview/blob/master/README_en.md">English</a>
+<a href="https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-8">C# 8.0 中的新增功能</a>
 </div> 
 <br>
 
